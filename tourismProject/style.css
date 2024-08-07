@@ -1,0 +1,9 @@
+.bg-img{
+    background-image: url('https://img.freepik.com/free-photo/beautiful-countryside-road-greenery-forests_181624-5399.jpg?t=st=1722526559~exp=1722530159~hmac=ab1653d8803af94c66e2c7eaddd90d7ec4ea474cfd04ab75f6e24d6b64718f55&w=360');
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 400px;
+    background-size: cover;
+
+    
+}
