@@ -1,0 +1,17 @@
+HTML
+
+1.) HTML is an Hyper text markup language.
+2.) HTML is used for adding contents in the webpage.
+3.) Emmet is shortcut used for writing some sort of code using a keyword Eg) html:5 ,   link:css 
+4.) html:5 or !
+5.) It consists of elements, attributes, tags.
+6.) Head tag consists info about the webpage and contains title of the web pages
+7.) body tag is used to add data in webpage by using elements and attributes .
+8.) paragraph tag, header tag, button tag, img tag.
+9.) Elements are components used in HTML where Tags are the Blocks of HTML code which are enclosed by open and close tags.
+
+CSS
+
+1.) CSS is Cascading Style Sheets
+2.) CSS is used for Styling the HTML file 
+3.) 
